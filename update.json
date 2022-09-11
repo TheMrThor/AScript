@@ -1,0 +1,20 @@
+{
+  "version": "3.0",
+  "date": "11.09.2022",
+  "ishot": false,
+  "arizona": {
+    "cmd_admin": 1,
+    "cmd_server": 1,
+    "vehicles": 1,
+    "gps": 1,
+    "questions": 1
+  },
+  "village": {
+    "cmd_admin": 1,
+    "cmd_server": 1,
+    "vehicles": 1,
+    "gps": 1,
+    "questions": 1
+  },
+  "update_desc": "bla bla bla"
+}
