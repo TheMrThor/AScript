@@ -28,13 +28,13 @@
 		{ "address": "80.66.82.147:7777", "type": 1 }
 	],
 	"files": {
-		"arizona": [
+		"arizona": {
 			"gps": 1,
 			"gps_vc": 0,
 			"questions": 0,
 			"server_cmd": 0,
 			"admin_cmd": 0,
 			"vehicles": 0
-		]
+		}
 	}
 }
