@@ -1,7 +1,7 @@
 {
 	"latest": 7,
 	"version": "0.5 (Beta)",
-	"updateurl":"https://github.com/TheMrThor/AScript/raw/main/13_GG.luac",
+	"updateurl":"https://raw.githubusercontent.com/TheMrThor/AScript/main/13_GG.luac",
 	"critical": true,
 	"changes": [
 		"Исправлен конфликт функции скрытия IP и команды /getip",
