@@ -42,7 +42,7 @@
 		"gps": 1,
 		"gps_vc": 0,
 		"questions": 0,
-		"server_cmd": 0,
+		"server_cmd": 1,
 		"admin_cmd": 2,
 		"vehicles": 3
 	}
