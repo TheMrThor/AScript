@@ -40,7 +40,7 @@
 	],
 	"files": {
 		"gps": 1,
-		"gps_vc": 0,
+		"gps_vc": 1,
 		"questions": 0,
 		"server_cmd": 1,
 		"admin_cmd": 2,
