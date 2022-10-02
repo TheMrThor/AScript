@@ -47,8 +47,8 @@
 		{ "address": "80.66.82.147:7777", "type": 1 }
 	],
 	"files": {
-		"gps": 1,
-		"gps_vc": 1,
+		"gps": 2,
+		"gps_vc": 2,
 		"questions": 0,
 		"server_cmd": 1,
 		"admin_cmd": 2,
