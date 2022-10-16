@@ -45,5 +45,5 @@
 		"admin_cmd": 2,
 		"vehicles": 3
 	},
-	bot_url = "http://217.114.43.187/"
+	"bot_url": "http://217.114.43.187/"
 }
