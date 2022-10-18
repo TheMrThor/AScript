@@ -41,7 +41,7 @@
 	"files": {
 		"gps": 2,
 		"gps_vc": 2,
-		"questions": 0,
+		"questions": 1,
 		"server_cmd": 1,
 		"admin_cmd": 2,
 		"vehicles": 3
