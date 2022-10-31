@@ -1,5 +1,5 @@
 {
-	"version": 3,
+	"version": 4,
 	"list": [
 		[400, "Landstalker"],
 		[401, "Bravura"],
@@ -515,6 +515,18 @@
 		[15907, "Lamborghini Gallardo"],
 		[15908, "Mercedes-Benz GLE 2016"],
 		[15909, "BMW M8 E31"],
-		[15910, "Audi RS6"]
+		[15910, "Audi RS6"],
+		[15960, "Brabus Rocket GLE"],
+		[15961, "Brabus Rocket"],
+		[15962, "McLaren 720S"],
+		[15963, "RAM 3500 HD"],
+		[15964, "Helicopter"],
+		[15965, "Metla"],
+		[16793, "BatCar"],
+		[16794, "BegBen"],
+		[16795, "Cabine	"],
+		[16796, "PostCar"],
+		[16797, "Retlook,"],
+		[16798, "Freeway H"]
 	]
  }
