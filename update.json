@@ -66,7 +66,7 @@
 	"files": {
 		"gps": 2,
 		"gps_vc": 2,
-		"questions": 1,
+		"questions": 2,
 		"server_cmd": 1,
 		"admin_cmd": 2,
 		"vehicles": 3
