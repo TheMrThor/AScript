@@ -46,7 +46,7 @@
 		{ "address": "80.66.82.147:7777", "id": 1000 }
 	],
 	"files": {
-		"gps": 3,
+		"gps": 4,
 		"gps_vc": 2,
 		"questions": 2,
 		"server_cmd": 1,
